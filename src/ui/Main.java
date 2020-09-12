@@ -1,3 +1,5 @@
+//Samuel Hernández Cifuentes - A00368069
+
 package ui;
 
 import model.*;
